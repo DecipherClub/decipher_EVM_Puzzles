@@ -1,0 +1,7 @@
+{
+  "code": "36600a14600957fdfd5b6000803590523660006000f03b3515602057fdfdfdfd5b00",
+  "askForValue": false,
+  "askForData": true,
+  "hint": true,
+  "hintMessage": "💡 Focus on how CALLDATALOAD works with any specific value as INPUT"
+}

@@ -1,0 +1,7 @@
+{
+  "code": "60008035905236600034f0808031903b14908031903b020156fdfdfdfdfdfdfdfdfdfdfdfd5b00",
+  "askForValue": true,
+  "askForData": true,
+  "hint": true,
+  "hintMessage": "💡 The BALANCE and EXTCODESIZE of the contract(within your CallData input) is the KEY🔑"
+}
